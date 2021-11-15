@@ -1,2 +1,3 @@
-# CV-Image-Acquisition-with-webcam
-Converting an analogue image - coming from your webcam - into digital form.
+# Image Acquisition with webcam
+Converting an analogue image into digital form.
+Using the live capture from the webcam after converting it into the gray scale.
